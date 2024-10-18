@@ -1,4 +1,4 @@
-name: End-to-end tests
+name: Luma job
 on: push
 jobs:
   cypress-run:
