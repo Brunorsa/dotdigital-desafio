@@ -1,1 +1,1 @@
-# dotdigital-desafio
+# dotdigital-desafio [![Action status][ci-badge]][ci-workflow] [![cypress][cloud-badge]][cloud-project]
