@@ -1,1 +1,1 @@
-# dotdigital-desafio [![Action status][ci-badge]][ci-workflow] [![cypress][cloud-badge]][cloud-project]
+# dotdigital-desafio ![Build Status](https://github.com/<USERNAME>/<REPO>/actions/workflows/<WORKFLOW_FILE>.yaml/badge.svg)
