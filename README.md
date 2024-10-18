@@ -1,1 +1,1 @@
-# dotdigital-desafio ![Build Status](https://github.com/<USERNAME>/<REPO>/actions/workflows/<WORKFLOW_FILE>.yaml/badge.svg)
+# dotdigital-desafio ![Build Status](https://github.com/Brunorsa/dotdigital-desafio/actions/workflows/main.yaml/badge.svg)
