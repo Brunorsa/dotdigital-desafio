@@ -3,7 +3,7 @@ describe('template spec', () => {
     beforeEach(() => {
       cy.login();
     })
-    it('Validar seleção do produto e fazer checkout', () => {
+    it('Validar seleção do produto', () => {
       cy.visit('/');
       cy.selecionarMenu();
       cy.escolherProduto();
